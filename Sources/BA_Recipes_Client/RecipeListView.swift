@@ -19,6 +19,7 @@ public struct RecipeListView: View {
             Text("Recipe 3")
             Text("Recipe 4")
             Text("Recipe 5")
+            Text("Recipe 6")
         }
     }
 }
